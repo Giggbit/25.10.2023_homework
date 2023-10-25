@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.10.2023 Шаблоны элементов управления", "25.10.2023 Шаблоны элементов управления.csproj", "{0B32E5C7-9CC3-4DEA-99CA-C1442A3D58EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B32E5C7-9CC3-4DEA-99CA-C1442A3D58EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B32E5C7-9CC3-4DEA-99CA-C1442A3D58EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B32E5C7-9CC3-4DEA-99CA-C1442A3D58EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B32E5C7-9CC3-4DEA-99CA-C1442A3D58EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1386017F-4ED9-4D4B-9394-2986158F0E2E}
+	EndGlobalSection
+EndGlobal
